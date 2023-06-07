@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
 
+* {
+    font-family: "Raleway", sans-serif;
+    color: white !important;
+}
+
 .App {
     text-align: center;
     background-image: url(./Images/1256748.png);
@@ -10,13 +15,34 @@
     margin: 0%;
 }
 
-* {
-    font-family: "Raleway", sans-serif;
-    color: white;
+header {
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: rgba(209, 215, 228, 0.138);
+    backdrop-filter: blur(18px) saturate(100%);
+    z-index: 100;
+    font-size: x-large;
+    transition: all 0.3s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    margin: 0px;
+    display: inline;
+}
+.icon {
+    font-size: 42px;
+    color: #06bcee;
 }
 .main {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     justify-content: space-between;
     gap: 20px;
+    width: 80%;
+    padding: 25px;
+    margin: auto;
 }
