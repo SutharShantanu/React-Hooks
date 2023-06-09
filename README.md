@@ -61,7 +61,7 @@ If you'd like to contribute to this project, feel free to submit a pull request 
 Overall, this project is a great resource for anyone looking to learn more about React Hooks and how they can be used in web development. With its easy-to-navigate card format and deployment on Vercel, it's a convenient and accessible way to explore this powerful feature of React.
 
 ## Contributors
-[![Contributor](https://img.shields.io/badge/Contributor-SutharShantanu-blue?style=for-the-badge&logo=github)](https://github.com/SutharShantanu/React-Hooks)
+[![Contributor](https://img.shields.io/badge/Contributor-SutharShantanu-blue?style=for-the-badge&logo=github)](https://github.com/SutharShantanu)
 
 
 
